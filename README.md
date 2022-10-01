@@ -1,6 +1,4 @@
 # AWS S3 Release Bucket Module
-[![CI](https://github.com/thevpnbeast/release-bucket-terraform/workflows/CI/badge.svg?event=push)](https://github.com/thevpnbeast/release-bucket-terraform/actions?query=workflow%3ACI)
-
 Terraform module which creates release bucket on S3 and dynamodb lock table if configured. Please see [MODULE.md](MODULE.md) for module documentation.
 
 ## Usage
